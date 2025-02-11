@@ -7,7 +7,18 @@ function agregarAmigo(){
     } 
     else{
         amigos.push(nombre); 
-        document.getElementById('amigo').value - '';
+        document.getElementById('amigo').value = '';
+    }
+}
+
+function actuarlizar(){
+    const lista = document.getElementById('listaAmigos');
+    lista.innerHTML ='';
+
+    for(let i=0; i<amigos.length; i++){
+        let li = document. createElement('li');
+        li.textContet = amigos [i];
+        lista.appendChild(li);
     }
 }
 
