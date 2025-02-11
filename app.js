@@ -9,15 +9,17 @@ function agregarAmigo(){
         amigos.push(nombre); 
         document.getElementById('amigo').value = '';
     }
+    actualizar();
+    console.log(amigos);
 }
 
-function actuarlizar(){
+function actualizar(){
     const lista = document.getElementById('listaAmigos');
     lista.innerHTML ='';
-
+    console.log("actualizar")
     for(let i=0; i<amigos.length; i++){
-        let li = document. createElement('li');
-        li.textContet = amigos [i];
+        let li = document.createElement('li');
+        li.textContent = amigos[i];
         lista.appendChild(li);
     }
 }
