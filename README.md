@@ -1,4 +1,4 @@
- ## JUEGO-AMIGO SECRETO
+ # JUEGO-AMIGO SECRETO
 
 Este es un proyecto que fue desarrollado como parte 
 de un desafío de un curso, es un juego que permite a los 
@@ -11,12 +11,12 @@ de los nombres de los participantes. Recuerda que el ambiente
 debe ser ameno y lleno de sorpresas, así que elige nombres que 
 estén dispuestos a jugar todo fue realizado desde javascrip
 
-# EVIDENCIA DE MI TRABAJO
+## EVIDENCIA DE MI TRABAJO
 
 
 ![Captura de pantalla 2025-03-18 101841](https://github.com/user-attachments/assets/40da80c0-4cfb-43be-a59a-aeab02d431e5)
 
-# REALIZADO POR JUANA
-gracias por ver mi trabao, todo fue un ezfuerzo con mucho cariño y mucho ezfuerzo...
+## REALIZADO POR JUANA
+Muchas gracias por ver mi trabao, fue un ezfuerzo con mucho cariño y dedicación...
 
 
